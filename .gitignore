@@ -1,0 +1,10 @@
+/server/node_modules
+/client/node_modules
+/log
+/uploads
+/backup
+/docs
+/tmp
+/.vscode
+.DS_Store
+.env
